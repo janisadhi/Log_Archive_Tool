@@ -71,5 +71,5 @@ log_24_12_26-14_30_15.tar.gz
 Where the timestamp reflects the date and time when the archive was created.
 
 
-This project is part of [Janis Adhikari's](https://roadmap.sh/projects/server-stats)  DevOps projects.
+This project is part of [Janis Adhikari's](https://roadmap.sh/projects/log-archive-tool)  DevOps projects.
 
